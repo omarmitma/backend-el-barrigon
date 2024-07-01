@@ -1,0 +1,178 @@
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\appsettings.Development.json
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\appsettings.json
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Proyecto _Final.exe
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Proyecto _Final.deps.json
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Proyecto _Final.runtimeconfig.json
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Proyecto _Final.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Proyecto _Final.pdb
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Azure.Core.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Azure.Identity.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Humanizer.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.CodeDom.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Memory.Data.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Text.Json.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.csproj.AssemblyReference.cache
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.AssemblyInfoInputs.cache
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.AssemblyInfo.cs
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.csproj.CoreCompileInputs.cache
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.MvcApplicationPartsAssemblyInfo.cs
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.MvcApplicationPartsAssemblyInfo.cache
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto _Final.Microsoft.AspNetCore.StaticWebAssets.props
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto _Final.props
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto _Final.props
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto _Final.props
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\staticwebassets.pack.json
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\staticwebassets.build.json
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\staticwebassets.development.json
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\scopedcss\bundle\Proyecto _Final.styles.css
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.csproj.CopyComplete
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\refint\Proyecto _Final.dll
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.pdb
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.genruntimeconfig.cache
+D:\clases\VISUAL PRACTICAS\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\ref\Proyecto _Final.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\appsettings.Development.json
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\appsettings.json
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Proyecto _Final.exe
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Proyecto _Final.deps.json
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Proyecto _Final.runtimeconfig.json
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Proyecto _Final.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Proyecto _Final.pdb
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Azure.Core.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Azure.Identity.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Humanizer.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.CodeDom.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Memory.Data.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Text.Json.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.csproj.AssemblyReference.cache
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.AssemblyInfoInputs.cache
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.AssemblyInfo.cs
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.csproj.CoreCompileInputs.cache
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.MvcApplicationPartsAssemblyInfo.cs
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.MvcApplicationPartsAssemblyInfo.cache
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\staticwebassets.build.json
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\staticwebassets.development.json
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\scopedcss\bundle\Proyecto _Final.styles.css
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.csproj.CopyComplete
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\refint\Proyecto _Final.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.pdb
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\Proyecto _Final.genruntimeconfig.cache
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\obj\Debug\net6.0\ref\Proyecto _Final.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\libman.json
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\lib\microsoft\signalr\package.json
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Web.Cors.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Web.Http.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\EstudiosNube\EstudiosNube\sise\Titulacion\Servicio\Proyecto _Final\Proyecto _Final\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
